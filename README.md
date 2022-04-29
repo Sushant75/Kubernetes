@@ -1,5 +1,9 @@
 # Kubernetes
 
+<p>
+Kubernetes is a portable, extensible, open source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem.</p>
+<br>
+
 ## Kubernetes Components Overview
 
 <p>Kubernetes has several core components that make the wheels of the machine turn. They are as follows:</p>
